@@ -30,7 +30,8 @@ fitpred-ai-model/
 
 ## Model AI
 
-File model AI disimpan pada Google Drive agar dapat diakses dan diunduh.
+File model AI disimpan pada Google Drive agar dapat diakses dan diunduh.\n
+
 Google Drive Model AI:
 https://drive.google.com/drive/folders/1At5jlbGjEYGN8Pa0SRNAzm5CJtV46lWq?usp=sharing
 
@@ -95,5 +96,6 @@ Library utama yang digunakan:
 
 ## AI API Deployment
 Model AI juga telah dibuat dalam bentuk REST API menggunakan FastAPI dan dideploy ke Railway.
+
 API Documentation:
 https://model-api-production-9ded.up.railway.app/docs 
