@@ -32,3 +32,4 @@ fitpred-ai-model/
 File model AI disimpan pada Google Drive agar dapat diakses dan diunduh.
 Google Drive Model AI:
 https://drive.google.com/drive/folders/1At5jlbGjEYGN8Pa0SRNAzm5CJtV46lWq?usp=sharing
+'''
