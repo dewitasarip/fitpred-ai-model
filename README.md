@@ -77,13 +77,16 @@ TensorBoard digunakan untuk memantau dan memvisualisasikan metrik pelatihan mode
 
 ## How to Run Notebook
 Install dependencies:
-'''bash
+
+```bash
 pip install -r requirements.txt
-'''
+```
+
 Buka notebook berikut di Google Colab atau Jupyter Notebook:
-'''text
+
+```text
 notebook/FitPred_Model_AI.ipynb
-'''
+```
 
 ## Requirements
 Library utama yang digunakan:
