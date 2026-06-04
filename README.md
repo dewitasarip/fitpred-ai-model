@@ -32,7 +32,7 @@ fitpred-ai-model/
 
 File model AI disimpan pada Google Drive agar dapat diakses dan diunduh.
 
-Google Drive Model AI:
+**Google Drive Model AI:**
 https://drive.google.com/drive/folders/1At5jlbGjEYGN8Pa0SRNAzm5CJtV46lWq?usp=sharing
 
 ## Dataset and Features
@@ -69,7 +69,7 @@ Model dievaluasi menggunakan metrik klasifikasi berikut:
 - Confusion Matrix
 
 ## TensorBoard
-TensorBoard digunakan untuk memantau dan memvisualisasikan metrik perlatihan model, seperti:
+TensorBoard digunakan untuk memantau dan memvisualisasikan metrik pelatihan model, seperti:
 - Training loss
 - Training accuracy
 - Validation loss
@@ -77,11 +77,11 @@ TensorBoard digunakan untuk memantau dan memvisualisasikan metrik perlatihan mod
 
 ## How to Run Notebook
 Install dependencies:
-'''
+'''bash
 pip install -r requirements.txt
 '''
 Buka notebook berikut di Google Colab atau Jupyter Notebook:
-'''
+'''text
 notebook/FitPred_Model_AI.ipynb
 '''
 
